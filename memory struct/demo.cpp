@@ -12,7 +12,9 @@ int main()
          case 1:
             cout << "hello" <<endl ;
             break;
-         break;
+         case 2:
+            cout << "xin chao " << end;
+         
       }
    }
 }
